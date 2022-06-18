@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "John",
+        "location": "India",
+        "phone": "1234567890",
+        "courses": [
+            "java",
+            "selenium"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Johnny",
+        "location": "India",
+        "phone": "1234567899",
+        "courses": [
+            "java",
+            "selenium"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Joy",
+        "location": "India",
+        "phone": "12345678991",
+        "courses": [
+            "java",
+            "selenium"
+        ]
+    }
+]
